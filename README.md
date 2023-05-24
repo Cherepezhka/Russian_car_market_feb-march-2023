@@ -12,4 +12,4 @@
 * Выбор модели (построение pipeline, подбор гиперпараметров и анализ метрик на кросс-валидации).
 * Тестирование модели.
 
-|Использованный стэк| `pandas` , `matplotlib`, `seaborn` `numpy`, `scikit-learn`, `optuna`, `xgboost`, `lightgbm`, `Pipeline`|
+Использованный стэк: `pandas` , `matplotlib`, `seaborn` `numpy`, `scikit-learn`,`NLP`,`TF-IDF`, `optuna`, `xgboost`, `lightgbm`, `Pipeline`
